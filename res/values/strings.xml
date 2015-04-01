@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Examen Parcial I</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main activity -->
+    <string name="btn4">Botón 4</string>
+    <string name="btn3">Botón 3</string>
+    <string name="btn2">Botón 2</string>
+    <string name="btn1">Botón 1</string>
+    
+    <string name="lblNombre">Nombre container</string>
+    <string name="lblApellido1">Apellido 1 container</string>
+    <string name="lblApellido2">Apellido 2 container</string>
+</resources>
