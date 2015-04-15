@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jpmonge/AndroidProjects/ExamenParcialI/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="/home/jpmonge/AndroidProjects/ExamenParcialI/build/intermediates/pre-dexed/debug/android-support-v4-c0832161e6df111d7ae56bb2af9dc3c7e4b3b21f.jar" />
+    </item>
+
+</items>

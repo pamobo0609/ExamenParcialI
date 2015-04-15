@@ -3,6 +3,7 @@ package com.examen;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AnalogClock;
@@ -72,5 +73,11 @@ public class MainActivity extends Activity {
 			img.setVisibility(View.INVISIBLE);
 			cont = 0;
 		}
+	}
+
+	// parcial II
+	public void goParcialII(View v) {
+		Intent i = new Intent(this, SegundoExamen.class);
+		startActivity(i);
 	}
 }
